@@ -1,4 +1,4 @@
-# my-first-HTML-project A simple HTML project to practice web development skills .
+# my-first-HTML-project :  A simple HTML project to practice web development skills .
 
 . این پروژه یک وب‌ سایت ساده است که به عنوان اولین تجربه من در یادگیری HTML طراحی شده است.
 
